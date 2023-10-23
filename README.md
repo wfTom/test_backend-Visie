@@ -37,7 +37,7 @@ The **CRUD People Visie** is a Web and Server application of a CRUD of people, i
 You can check the endpoints in the documentation made with swagger, at: http://localhost:3001/api/
 
 <p align="center">
-  <img alt="screenshot" width="650px" src="./.github/swagger.jpeg" />
+  <img alt="swagger" width="650px" src="./.github/swagger.png" />
 <p>
 
 - ### **Requirements**
