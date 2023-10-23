@@ -30,10 +30,6 @@ Project made to test the developer's fullstack job at Visie
    <a href="#construction_worker-how-to-run">How to run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
    <a href="#memo-licença">License</a>
 </p>
-
-<p align="center">
-  <img alt="screenshot" width="650px" src="./.github/screenshot.jpeg" />
-<p>
   
 ## :bookmark: About
 
