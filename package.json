@@ -6,9 +6,6 @@
   "private": true,
   "license": "UNLICENSED",
   "scripts": {
-    "build:container": "docker build -t test_backend-visie:0.0.1 .",
-    "run:container": "docker run --rm --name test_backend-visie -p3001:3001 test_backend-visie:0.0.1",
-    "kill:container": "docker kill test_backend-visie",
     "build": "nest build",
     "format": "prettier --write \"src/**/*.ts\" \"test/**/*.ts\"",
     "start": "nest start",
