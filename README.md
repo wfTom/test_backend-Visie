@@ -11,7 +11,7 @@
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/wfTom/test_backend-Visie?color=774DD6">
 </p>
 
-Project made to test the developer's fullstack job at Visie
+Project made to test for a fullstack developer position at Visie
 
 <p align="center">
     <a href="README.md">English</a>
